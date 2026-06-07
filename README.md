@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-missing-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Skin Missing Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-missing-your-touch/) |
+| **Get License** | [Commercial Licensing for Skin Missing Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-missing-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still feel the heat of your skin against mine
+> Like a slow, sweet sip of a vintage wine
+> The scent of your perfume is stuck in the breeze
+> Bringing this longing heart right down to its knees
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
